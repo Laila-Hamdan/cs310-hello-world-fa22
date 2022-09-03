@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Laila Hamdan
  */
 
 public class Class2 {
